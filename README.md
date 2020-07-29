@@ -9,7 +9,7 @@ O arquivo 'app.py' contém:
 * Criação de uma aplicação Flask
 * Criação da Api
 
-O conjunto de dados original utilizado na análise se encontra em: https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019
+O conjunto de dados original utilizado na análise se encontra em: https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019 .
 
 # Pacotes instalados para a criação da Api
 
