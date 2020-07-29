@@ -1,6 +1,6 @@
 # Criando uma Api utilizando Flask
 
-O arquivo 'Deploy.ipynb' contém:
+O arquivo 'Criando_Modelo_ML.ipynb' contém:
 * Uma breve análise em um conjunto de dados sobre propriedades para venda e aluguel na cidade de São Paulo
 * Criação de um modelo de Machine Learning para prever o preço de um imóvel
 * Persistência do modelo em um arquivo novo utilizando a biblioteca Joblib
@@ -9,7 +9,7 @@ O arquivo 'app.py' contém:
 * Criação de uma aplicação Flask
 * Criação da Api
 
-O conjunto de dados original utilizado na análise se encontra no (Kaggle)[https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019].
+O conjunto de dados original utilizado na análise se encontra no [Kaggle](https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019).
 
 # Pacotes instalados para a criação da Api
 
